@@ -50,3 +50,6 @@ The minimax function should take a board as input, and return the optimal move f
 For all functions that accept a board as input, you may assume that it is a valid board (namely, that it is a list that contains three rows, each with three values of either X, O, or EMPTY). You should not modify the function declarations (the order or number of arguments to each function) provided.
 
 Once all functions are implemented correctly, you should be able to run python runner.py and play against your AI. And, since Tic-Tac-Toe is a tie given optimal play by both sides, you should never be able to beat the AI (though if you don’t play optimally as well, it may beat you!)
+
+# Video
+https://www.youtube.com/watch?v=Gwa81Km6V98&ab_channel=EnzoMorente
